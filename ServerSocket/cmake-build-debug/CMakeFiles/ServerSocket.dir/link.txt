@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/ServerSocket.dir/main.cpp.o  -o ServerSocket 

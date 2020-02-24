@@ -1,0 +1,3 @@
+/home/david/HACKERPLACE/TEDATOS2/ServerClient/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/david/HACKERPLACE/TEDATOS2/ServerClient/cmake-build-debug/CMakeFiles/ServerClient.dir
+/home/david/HACKERPLACE/TEDATOS2/ServerClient/cmake-build-debug/CMakeFiles/edit_cache.dir
