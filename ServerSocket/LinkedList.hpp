@@ -1,0 +1,8 @@
+//
+// Created by david on 26/2/20.
+//
+
+#ifndef SERVERSOCKET_LINKEDLIST_HPP
+#define SERVERSOCKET_LINKEDLIST_HPP
+
+#endif //SERVERSOCKET_LINKEDLIST_HPP
