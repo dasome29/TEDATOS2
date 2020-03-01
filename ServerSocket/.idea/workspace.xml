@@ -11,7 +11,21 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8a68f992-0aa9-47e6-a182-196a2c2c22d0" name="Default Changelist" comment="" />
+    <list default="true" id="8a68f992-0aa9-47e6-a182-196a2c2c22d0" name="Default Changelist" comment="LinkedList.hpp added">
+      <change beforePath="$PROJECT_DIR$/../ServerClient/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ServerClient/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinkedList.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedList.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ServerSocket.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ServerSocket.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ServerSocket.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ServerSocket.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ServerSocket.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ServerSocket.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ServerSocket.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ServerSocket.dir/main.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/ServerSocket" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/ServerSocket" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/ServerSocket.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/ServerSocket.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,7 +35,11 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1YEEx96BZwEUFoNbbWMvSigMd1A" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -50,28 +68,60 @@
       <option name="presentableId" value="Default" />
       <updated>1582499596871</updated>
       <workItem from="1582499599133" duration="2704000" />
+      <workItem from="1582503413591" duration="12443000" />
+      <workItem from="1582688217090" duration="12827000" />
+      <workItem from="1582780726974" duration="1152000" />
+      <workItem from="1583036497909" duration="3984000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="LinkedList.hpp added" />
+    <option name="LAST_COMMIT_MESSAGE" value="LinkedList.hpp added" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="881" height="276" key="GridCell.Tab.0.bottom" timestamp="1582503221189">
+    <state x="588" y="214" width="800" height="677" key="#New_File_Extensions" timestamp="1582780855931">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="881" height="276" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1582503221189" />
-    <state width="881" height="276" key="GridCell.Tab.0.center" timestamp="1582503221188">
+    <state x="588" y="214" width="800" height="677" key="#New_File_Extensions/67.27.1853.1053@67.27.1853.1053" timestamp="1582780855931" />
+    <state x="263" y="301" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1582513229692">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="881" height="276" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1582503221188" />
-    <state width="881" height="276" key="GridCell.Tab.0.left" timestamp="1582503221188">
+    <state x="263" y="301" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1582513229692" />
+    <state x="90" y="150" width="860" height="807" key="CommitChangelistDialog2" timestamp="1583040666509">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="881" height="276" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1582503221188" />
-    <state width="881" height="276" key="GridCell.Tab.0.right" timestamp="1582503221189">
+    <state x="90" y="150" width="860" height="807" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1583040666509" />
+    <state width="435" height="274" key="GridCell.Tab.0.bottom" timestamp="1583040666695">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="881" height="276" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1582503221189" />
+    <state width="435" height="274" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1583040666695" />
+    <state width="435" height="274" key="GridCell.Tab.0.center" timestamp="1583040666694">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="435" height="274" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1583040666694" />
+    <state width="435" height="274" key="GridCell.Tab.0.left" timestamp="1583040666693">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="435" height="274" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1583040666693" />
+    <state width="435" height="274" key="GridCell.Tab.0.right" timestamp="1583040666695">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="435" height="274" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1583040666695" />
+    <state x="275" y="196" width="501" height="713" key="refactoring.ChangeSignatureDialog" timestamp="1582512946026">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="275" y="196" width="501" height="713" key="refactoring.ChangeSignatureDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1582512946026" />
+    <state x="194" y="253" width="672" height="677" key="run.anything.popup" timestamp="1582690731946">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="194" y="253" width="672" height="677" key="run.anything.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1582690731946" />
+    <state x="193" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1582690968803">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="193" y="257" width="672" height="678" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1582690968803" />
   </component>
 </project>

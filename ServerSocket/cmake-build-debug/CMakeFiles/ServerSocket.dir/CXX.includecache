@@ -6,6 +6,10 @@
 
 #IncludeRegexTransform: 
 
+/home/david/HACKERPLACE/TEDATOS2/ServerSocket/LinkedList.hpp
+iostream
+-
+
 /home/david/HACKERPLACE/TEDATOS2/ServerSocket/main.cpp
 iostream
 -
@@ -23,4 +27,6 @@ string.h
 -
 string
 -
+LinkedList.hpp
+/home/david/HACKERPLACE/TEDATOS2/ServerSocket/LinkedList.hpp
 
