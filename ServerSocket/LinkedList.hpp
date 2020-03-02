@@ -11,8 +11,9 @@ using namespace std;
 template <typename T> class Node {
 public:
     T data;
-    Node *prev;
-    Node *next;
+    Node<T> *prev;
+    Node<T> *next;
+
 
     Node() {
         data = NULL;
@@ -24,6 +25,7 @@ public:
         data = d;
         next = NULL;
         prev = NULL;
+
     }
 };
 
@@ -32,14 +34,18 @@ template <typename B> class LinkedList {
 public:
     Node<B> *first;
     Node<B> *last;
+    int size;
 
     LinkedList<B>() {
         first = NULL;
         last = NULL;
+        size = 0;
     }
 
     LinkedList<B>(Node<B> *node) {
         first = node;
+        last = node;
+        size = 1;
     }
 
     // template <typename B>
@@ -54,6 +60,7 @@ public:
             last = new_node;
         }
         first = new_node;
+        size++;
     }
 
     void addLast(B data) {
@@ -63,13 +70,22 @@ public:
             last = new_node;
             first->next = last;
             last->prev = first;
-
         } else {
             last->next = new_node;
             new_node->prev = last;
             last = new_node;
         }
-
+        size++;
+    }
+    B getData(int index){
+        Node<B> *temp = first;
+        for (int i = 0; i < size; ++i) {
+            if (i == index){
+                return temp->data;
+            } else{
+                temp = temp->next;
+            }
+        }
     }
 
     void insert(int position, B data) {
@@ -94,7 +110,7 @@ public:
                 temp = temp->next;
             }
         }
-
+        size++;
     }
 
     void print() {
@@ -102,7 +118,6 @@ public:
 
         while (current != NULL) {
             int num = current->data;
-            cout << num << endl;
             current = current->next;
         }
     }

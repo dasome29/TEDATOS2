@@ -3,4 +3,4 @@ project(ServerSocket)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(ServerSocket main.cpp LinkedList.hpp)
+add_executable(ServerSocket main.cpp LinkedList.hpp Graph.hpp test.hpp Matrix.h)

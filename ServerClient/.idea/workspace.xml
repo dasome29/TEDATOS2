@@ -12,16 +12,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8663fb01-39af-4c7c-ac8c-07a0e77f1751" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../ServerSocket/Graph.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServerSocket/Matrix.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServerSocket/cmake-build-debug/CMakeFiles/ServerSocket_autogen.dir/AutogenInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServerSocket/cmake-build-debug/CMakeFiles/ServerSocket_autogen.dir/AutogenOldSettings.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServerSocket/cmake-build-debug/CMakeFiles/ServerSocket_autogen.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServerSocket/cmake-build-debug/CMakeFiles/ServerSocket_autogen.dir/ParseCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServerSocket/cmake-build-debug/CMakeFiles/ServerSocket_autogen.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServerSocket/cmake-build-debug/CMakeFiles/ServerSocket_autogen.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServerSocket/cmake-build-debug/CMakeFiles/ServerSocket_autogen.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServerSocket/cmake-build-debug/CMakeFiles/ServerSocket_autogen.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServerSocket/cmake-build-debug/CMakeFiles/ServerSocket_autogen.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServerSocket/cmake-build-debug/ServerSocket_autogen/moc_predefs.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServerSocket/cmake-build-debug/ServerSocket_autogen/mocs_compilation.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServerSocket/test.hpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ServerSocket/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ServerSocket/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ServerSocket/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../ServerSocket/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ServerSocket/LinkedList.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/../ServerSocket/LinkedList.hpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ServerSocket/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../ServerSocket/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServerSocket/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../ServerSocket/cmake-build-debug/CMakeCache.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ServerSocket/cmake-build-debug/CMakeFiles/ServerSocket.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../ServerSocket/cmake-build-debug/CMakeFiles/ServerSocket.dir/CXX.includecache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ServerSocket/cmake-build-debug/CMakeFiles/ServerSocket.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../ServerSocket/cmake-build-debug/CMakeFiles/ServerSocket.dir/depend.internal" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ServerSocket/cmake-build-debug/CMakeFiles/ServerSocket.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../ServerSocket/cmake-build-debug/CMakeFiles/ServerSocket.dir/depend.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ServerSocket/cmake-build-debug/CMakeFiles/ServerSocket.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../ServerSocket/cmake-build-debug/CMakeFiles/ServerSocket.dir/main.cpp.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ServerSocket/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../ServerSocket/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ServerSocket/cmake-build-debug/ServerSocket" beforeDir="false" afterPath="$PROJECT_DIR$/../ServerSocket/cmake-build-debug/ServerSocket" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ServerSocket/cmake-build-debug/ServerSocket.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../ServerSocket/cmake-build-debug/ServerSocket.cbp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ServerSocket/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../ServerSocket/main.cpp" afterDir="false" />
@@ -39,13 +52,16 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1YEFCImcUTqTEDYAUJ2TcILdiN9" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -72,12 +88,17 @@
       <workItem from="1582503367988" duration="2609000" />
       <workItem from="1582688217873" duration="2621000" />
       <workItem from="1582780724153" duration="617000" />
-      <workItem from="1583036497972" duration="598000" />
+      <workItem from="1583036497972" duration="1198000" />
+      <workItem from="1583073816409" duration="1197000" />
+      <workItem from="1583086791273" duration="1797000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state width="871" height="275" key="GridCell.Tab.0.bottom" timestamp="1582701327029">

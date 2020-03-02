@@ -84,10 +84,19 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/home/david/HACKERPLACE/TEDATOS2/ServerSocket/Graph.hpp">
+			<Option target="ServerSocket"/>
+		</Unit>
 		<Unit filename="/home/david/HACKERPLACE/TEDATOS2/ServerSocket/LinkedList.hpp">
 			<Option target="ServerSocket"/>
 		</Unit>
+		<Unit filename="/home/david/HACKERPLACE/TEDATOS2/ServerSocket/Matrix.h">
+			<Option target="ServerSocket"/>
+		</Unit>
 		<Unit filename="/home/david/HACKERPLACE/TEDATOS2/ServerSocket/main.cpp">
+			<Option target="ServerSocket"/>
+		</Unit>
+		<Unit filename="/home/david/HACKERPLACE/TEDATOS2/ServerSocket/test.hpp">
 			<Option target="ServerSocket"/>
 		</Unit>
 		<Unit filename="/home/david/HACKERPLACE/TEDATOS2/ServerSocket/CMakeLists.txt">

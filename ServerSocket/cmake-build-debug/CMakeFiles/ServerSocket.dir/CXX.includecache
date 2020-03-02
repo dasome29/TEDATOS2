@@ -6,8 +6,38 @@
 
 #IncludeRegexTransform: 
 
+/home/david/HACKERPLACE/TEDATOS2/ServerSocket/Graph.hpp
+LinkedList.hpp
 /home/david/HACKERPLACE/TEDATOS2/ServerSocket/LinkedList.hpp
 iostream
+-
+fstream
+-
+sstream
+-
+string
+/home/david/HACKERPLACE/TEDATOS2/ServerSocket/string
+bits/stdc++.h
+-
+Matrix.h
+/home/david/HACKERPLACE/TEDATOS2/ServerSocket/Matrix.h
+
+/home/david/HACKERPLACE/TEDATOS2/ServerSocket/LinkedList.hpp
+iostream
+-
+
+/home/david/HACKERPLACE/TEDATOS2/ServerSocket/Matrix.h
+algorithm
+-
+iomanip
+-
+iostream
+-
+sstream
+-
+stdexcept
+-
+vector
 -
 
 /home/david/HACKERPLACE/TEDATOS2/ServerSocket/main.cpp
@@ -29,4 +59,12 @@ string
 -
 LinkedList.hpp
 /home/david/HACKERPLACE/TEDATOS2/ServerSocket/LinkedList.hpp
+test.hpp
+/home/david/HACKERPLACE/TEDATOS2/ServerSocket/test.hpp
+Matrix.h
+/home/david/HACKERPLACE/TEDATOS2/ServerSocket/Matrix.h
+
+/home/david/HACKERPLACE/TEDATOS2/ServerSocket/test.hpp
+Graph.hpp
+/home/david/HACKERPLACE/TEDATOS2/ServerSocket/Graph.hpp
 
