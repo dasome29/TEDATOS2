@@ -121,6 +121,12 @@ public:
             current = current->next;
         }
     }
+
+    void empty(){
+        first = NULL;
+        last = NULL;
+        size = 0;
+    }
 };
 
 

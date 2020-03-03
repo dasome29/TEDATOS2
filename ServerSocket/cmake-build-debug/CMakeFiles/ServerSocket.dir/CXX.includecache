@@ -6,6 +6,18 @@
 
 #IncludeRegexTransform: 
 
+/home/david/HACKERPLACE/TEDATOS2/ServerSocket/Dijkstra.hpp
+Graph.hpp
+/home/david/HACKERPLACE/TEDATOS2/ServerSocket/Graph.hpp
+LinkedList.hpp
+/home/david/HACKERPLACE/TEDATOS2/ServerSocket/LinkedList.hpp
+iostream
+-
+set
+-
+limits
+-
+
 /home/david/HACKERPLACE/TEDATOS2/ServerSocket/Graph.hpp
 LinkedList.hpp
 /home/david/HACKERPLACE/TEDATOS2/ServerSocket/LinkedList.hpp
@@ -63,8 +75,12 @@ test.hpp
 /home/david/HACKERPLACE/TEDATOS2/ServerSocket/test.hpp
 Matrix.h
 /home/david/HACKERPLACE/TEDATOS2/ServerSocket/Matrix.h
+limits
+-
 
 /home/david/HACKERPLACE/TEDATOS2/ServerSocket/test.hpp
 Graph.hpp
 /home/david/HACKERPLACE/TEDATOS2/ServerSocket/Graph.hpp
+Dijkstra.hpp
+/home/david/HACKERPLACE/TEDATOS2/ServerSocket/Dijkstra.hpp
 

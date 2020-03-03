@@ -6,11 +6,14 @@
 #define SERVERSOCKET_TEST_HPP
 
 #include "Graph.hpp"
+#include "Dijkstra.hpp"
 
 
 int test(){
     Graph *graph = new Graph();
     graph->uploadGraph();
+    Dijkstra *d = new Dijkstra();
+    d->dijkstra(1, 10, *graph);
     cout << "Ended" << endl;
     return 0;
 }

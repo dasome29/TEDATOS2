@@ -12,25 +12,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8663fb01-39af-4c7c-ac8c-07a0e77f1751" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../ServerSocket/Graph.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ServerSocket/Matrix.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ServerSocket/cmake-build-debug/CMakeFiles/ServerSocket_autogen.dir/AutogenInfo.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ServerSocket/cmake-build-debug/CMakeFiles/ServerSocket_autogen.dir/AutogenOldSettings.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ServerSocket/cmake-build-debug/CMakeFiles/ServerSocket_autogen.dir/DependInfo.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ServerSocket/cmake-build-debug/CMakeFiles/ServerSocket_autogen.dir/ParseCache.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ServerSocket/cmake-build-debug/CMakeFiles/ServerSocket_autogen.dir/build.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ServerSocket/cmake-build-debug/CMakeFiles/ServerSocket_autogen.dir/cmake_clean.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ServerSocket/cmake-build-debug/CMakeFiles/ServerSocket_autogen.dir/depend.internal" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ServerSocket/cmake-build-debug/CMakeFiles/ServerSocket_autogen.dir/depend.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ServerSocket/cmake-build-debug/CMakeFiles/ServerSocket_autogen.dir/progress.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ServerSocket/cmake-build-debug/ServerSocket_autogen/moc_predefs.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ServerSocket/cmake-build-debug/ServerSocket_autogen/mocs_compilation.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ServerSocket/test.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServerSocket/Dijkstra.hpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ServerSocket/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ServerSocket/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ServerSocket/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../ServerSocket/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServerSocket/Graph.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/../ServerSocket/Graph.hpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ServerSocket/LinkedList.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/../ServerSocket/LinkedList.hpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ServerSocket/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../ServerSocket/cmake-build-debug/CMakeCache.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ServerSocket/cmake-build-debug/CMakeFiles/ServerSocket.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../ServerSocket/cmake-build-debug/CMakeFiles/ServerSocket.dir/CXX.includecache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ServerSocket/cmake-build-debug/CMakeFiles/ServerSocket.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../ServerSocket/cmake-build-debug/CMakeFiles/ServerSocket.dir/depend.internal" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ServerSocket/cmake-build-debug/CMakeFiles/ServerSocket.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../ServerSocket/cmake-build-debug/CMakeFiles/ServerSocket.dir/depend.make" afterDir="false" />
@@ -38,6 +25,7 @@
       <change beforePath="$PROJECT_DIR$/../ServerSocket/cmake-build-debug/ServerSocket" beforeDir="false" afterPath="$PROJECT_DIR$/../ServerSocket/cmake-build-debug/ServerSocket" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ServerSocket/cmake-build-debug/ServerSocket.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../ServerSocket/cmake-build-debug/ServerSocket.cbp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ServerSocket/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../ServerSocket/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServerSocket/test.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/../ServerSocket/test.hpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
